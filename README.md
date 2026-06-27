@@ -4,8 +4,6 @@ A tiny, free, open-source calculator that estimates the **lead sash weight** nee
 
 No build step, no dependencies, no tracking, no network calls. It's a single static page that runs entirely in the browser.
 
-👉 **[Live demo](https://leadsashwindowweights.github.io/sash-weight-calculator/)**
-
 ## Why
 
 Box sash windows are balanced by cast weights — usually lead — that hang in the box frame and counterbalance each sliding sash. If you're restoring a window or replacing missing weights, you need to know roughly how heavy each weight should be. This tool gives a quick first estimate so you can size weights (and budget for the lead) before buying.
